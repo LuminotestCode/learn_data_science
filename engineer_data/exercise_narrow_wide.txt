@@ -1,0 +1,4 @@
+café,agua,pan,vino
+café,café,café
+pan,agua,agua
+vino,agua
